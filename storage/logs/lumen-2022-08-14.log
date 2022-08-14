@@ -1,0 +1,654 @@
+[2022-08-14 05:26:46] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::name() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::name() at /Users/jinugeorge/exchangeRate-rest-api/routes/web.php:21)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#5 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#6 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#7 {main}
+"} 
+[2022-08-14 05:26:48] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::name() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::name() at /Users/jinugeorge/exchangeRate-rest-api/routes/web.php:21)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#5 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#6 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#7 {main}
+"} 
+[2022-08-14 05:27:26] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::where() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::where() at /Users/jinugeorge/exchangeRate-rest-api/routes/web.php:30)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#6 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#8 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#10 {main}
+"} 
+[2022-08-14 05:27:29] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::where() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::where() at /Users/jinugeorge/exchangeRate-rest-api/routes/web.php:30)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#6 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#8 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#10 {main}
+"} 
+[2022-08-14 05:27:30] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::where() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::where() at /Users/jinugeorge/exchangeRate-rest-api/routes/web.php:30)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#2 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php(338): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#6 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#8 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#10 {main}
+"} 
+[2022-08-14 05:27:44] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:27:58] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:29:05] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:29:06] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:29:07] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:29:07] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:29:07] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:31:01] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:31:02] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:31:57] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:32:54] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:34:54] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:35:32] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:35:53] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:36:15] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:36:18] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:36:24] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:36:34] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:36:36] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:36:37] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:36:47] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:37:04] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:37:06] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:38:20] local.ERROR: A facade root has not been set. {"exception":"[object] (RuntimeException(code: 0): A facade root has not been set. at /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/support/Facades/Facade.php:335)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/routes/web.php(32): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(112): require('/Users/jinugeor...')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#3 /Users/jinugeorge/exchangeRate-rest-api/bootstrap/app.php(113): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(14): require('/Users/jinugeor...')
+#5 {main}
+"} 
+[2022-08-14 05:39:19] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:40:21] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:40:31] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:41:25] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:42:25] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:42:27] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:42:45] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:42:47] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Laravel\\Lumen\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(NULL)
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(29): Laravel\\Lumen\\Application->run()
+#6 {main}
+"} 
+[2022-08-14 05:45:31] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 05:46:44] local.ERROR: There are no commands defined in the "route" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"route\" namespace. at /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php:622)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(673): Symfony\\Component\\Console\\Application->findNamespace('route')
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find('route:list')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(116): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 /Users/jinugeorge/exchangeRate-rest-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-08-14 05:51:10] local.ERROR: There are no commands defined in the "optimize" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"optimize\" namespace. at /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php:622)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(673): Symfony\\Component\\Console\\Application->findNamespace('optimize')
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find('optimize:clear')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(116): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 /Users/jinugeorge/exchangeRate-rest-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-08-14 05:51:16] local.ERROR: There are no commands defined in the "cahce" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"cahce\" namespace. at /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php:622)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(673): Symfony\\Component\\Console\\Application->findNamespace('cahce')
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find('cahce:clear')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(116): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 /Users/jinugeorge/exchangeRate-rest-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-08-14 05:51:32] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:32:59] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:39:05] local.ERROR: There are no commands defined in the "optimize" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"optimize\" namespace. at /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php:622)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(673): Symfony\\Component\\Console\\Application->findNamespace('optimize')
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find('optimize:clear')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(116): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 /Users/jinugeorge/exchangeRate-rest-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-08-14 06:39:23] local.ERROR: There are no commands defined in the "route" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"route\" namespace. at /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php:622)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(673): Symfony\\Component\\Console\\Application->findNamespace('route')
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find('route:clear')
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/console/Application.php(102): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(116): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 /Users/jinugeorge/exchangeRate-rest-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#6 {main}
+"} 
+[2022-08-14 06:39:36] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:39:39] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:40:42] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:43:59] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:47:28] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:47:58] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 06:49:16] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(429): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#5 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#6 {main}
+"} 
+[2022-08-14 07:23:33] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
+[2022-08-14 07:24:31] local.ERROR: include(/Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php): Failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): include(/Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php): Failed to open stream: No such file or directory at /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php:571)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\\Lumen\\Application->handleError(2, 'include(/Users/...', '/Users/jinugeor...', 571)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(571): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(2, 'include(/Users/...', '/Users/jinugeor...', 571)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(571): include('/Users/jinugeor...')
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(428): Composer\\Autoload\\includeFile('/Users/jinugeor...')
+#4 [internal function]: Composer\\Autoload\\ClassLoader->loadClass('App\\\\Http\\\\Middle...')
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(875): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(756): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(692): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Application.php(300): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(169): Laravel\\Lumen\\Application->make('App\\\\Http\\\\Middle...')
+#10 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#13 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#14 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#15 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#16 {main}
+"} 
+[2022-08-14 07:24:31] local.ERROR: include(/Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php): Failed to open stream: No such file or directory {"exception":"[object] (ErrorException(code: 0): include(/Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php): Failed to open stream: No such file or directory at /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php:571)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\\Lumen\\Application->handleError(2, 'include(/Users/...', '/Users/jinugeor...', 571)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(571): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(2, 'include(/Users/...', '/Users/jinugeor...', 571)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(571): include('/Users/jinugeor...')
+#3 /Users/jinugeorge/exchangeRate-rest-api/vendor/composer/ClassLoader.php(428): Composer\\Autoload\\includeFile('/Users/jinugeor...')
+#4 [internal function]: Composer\\Autoload\\ClassLoader->loadClass('App\\\\Http\\\\Middle...')
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(875): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(756): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/container/Container.php(692): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Application.php(300): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(144): Laravel\\Lumen\\Application->make('App\\\\Http\\\\Middle...')
+#10 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(121): Laravel\\Lumen\\Application->callTerminableMiddleware(Object(Illuminate\\Http\\Response))
+#11 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#12 {main}
+"} 
+[2022-08-14 07:24:47] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
+[2022-08-14 07:27:32] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
+[2022-08-14 07:27:34] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
+[2022-08-14 07:28:16] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
+[2022-08-14 07:28:24] local.ERROR: Unable to resolve route handler. {"exception":"[object] (RuntimeException(code: 0): Unable to resolve route handler. at /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php:298)
+[stacktrace]
+#0 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(267): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute(Array)
+#1 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(169): Laravel\\Lumen\\Application->handleFoundRoute(Array)
+#2 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->Laravel\\Lumen\\Concerns\\{closure}(Object(Illuminate\\Http\\Request))
+#3 /Users/jinugeorge/exchangeRate-rest-api/app/Http/Middleware/ExampleMiddleware.php(18): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#4 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(180): App\\Http\\Middleware\\ExampleMiddleware->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#5 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 /Users/jinugeorge/exchangeRate-rest-api/vendor/illuminate/pipeline/Pipeline.php(116): Laravel\\Lumen\\Routing\\Pipeline->Laravel\\Lumen\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(426): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#8 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(175): Laravel\\Lumen\\Application->sendThroughPipeline(Array, Object(Closure))
+#9 /Users/jinugeorge/exchangeRate-rest-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch(Object(Illuminate\\Http\\Request))
+#10 /Users/jinugeorge/exchangeRate-rest-api/public/index.php(31): Laravel\\Lumen\\Application->run(Object(Illuminate\\Http\\Request))
+#11 {main}
+"} 
